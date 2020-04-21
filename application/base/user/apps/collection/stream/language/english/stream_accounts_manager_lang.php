@@ -1,0 +1,20 @@
+<?php
+$lang["no_accounts_found"] = "No accounts found.";
+$lang["no_groups_found"] = "No groups found.";
+$lang["search_for_accounts"] = "Search accounts";
+$lang["search_for_groups"] = "Search groups";
+$lang["groups"] = "Groups";
+$lang["accounts"] = "Accounts";
+$lang["post_insights"] = "Post Insights";
+$lang["no_accounts_selected"] = "No accounts selected.";
+$lang["no_group_selected"] = "No group selected.";
+$lang["new_account"] = "New Account";
+$lang["enter_group_name"] = "Enter the group's name";
+$lang["save_group"] = "Save Group";
+$lang["select_group"] = "Select a group";
+$lang["delete_group"] = "Delete Group";
+$lang["group_was_created"] = "The group was created successfully.";
+$lang["group_was_deleted"] = "The group was deleted successfully.";
+$lang["selected_account_was_saved"] = "Selected account was added successfully.";
+$lang["selected_account_was_removed"] = "Selected account was removed successfully.";
+$lang["no_group_selected"] = "No group selected.";
